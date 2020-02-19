@@ -51,6 +51,9 @@ p {
   height: 80%;
   background-color: white; /* To send back side section background*/
 }
+.single-experience p{
+  padding: 10px;
+}
 .experience-area {
   background-image: url("images/exp-bg.png");
   background-repeat: no-repeat;
